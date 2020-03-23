@@ -236,7 +236,7 @@ docker build -t docker_demo .
 
 ```shell
 # 创建并启动一个名为demo的docker容器，主机的8001端口映射docker容器的8080端口
-sudo docker run -idt --name demo -p 8001:8080 docker-demo
+sudo docker run -idt --name demo -p 8001:8080 docker_demo
 # 模拟HTTP请求，测试浏览器是否能正常访问  
 curl localhost:8001
 ```
