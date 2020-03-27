@@ -150,7 +150,7 @@ ssh ubuntu@10.0.1.197 -i ./aws_lab.pem
 
 ## Part 3：使用Docker
 
-实验要求：配置Docker并成功部署所给的简易java项目，项目源代码[见此](https://github.com/2020-web/lab1_Code-docker_demo)。
+实验要求：配置Docker并成功部署所给的简易java项目，项目源代码[见此](https://github.com/2020-web/lab1_Code-docker_ssm)。
 
 Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows 机器上，也可以实现虚拟化。
 
